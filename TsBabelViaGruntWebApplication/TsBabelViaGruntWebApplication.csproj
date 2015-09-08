@@ -73,6 +73,7 @@
     <Content Include="gruntfile.js" />
     <Content Include="packages.config" />
     <Content Include="package.json" />
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
